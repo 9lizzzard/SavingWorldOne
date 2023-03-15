@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  font-family: "Montserrat", "Sans-serif";
+  color: #084c64;
+  line-height: 2;
+}
+
+footer {
+  margin: 30px;
+}
+
+.header-background {
+  background-color: #084c64 !important;
+}
+
+.teachers {
+  width: 100px;
+}
+
+.logo, .dog-gif {
+  width: 300px;
+  margin: 30px;
+}
+
+.btn {
+  background-color: #084c64;
+  color: white;
+  border: 0;
+}
+
+.btn:hover {
+  background-color: #fb682c !important;
+  color: #084c64;
+}
+
+.score {
+  color: #fb682c;
+}
+
+form {
+  line-height: 1.5;
+}
+
+input {
+  margin-top: 15px;
+}
